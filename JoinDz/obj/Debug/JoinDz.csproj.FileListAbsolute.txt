@@ -1,0 +1,11 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\JoinDz\JoinDz\bin\Debug\JoinDz.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\JoinDz\JoinDz\bin\Debug\JoinDz.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\JoinDz\JoinDz\bin\Debug\JoinDz.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\JoinDz\JoinDz\bin\Debug\EntityFramework.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\JoinDz\JoinDz\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\JoinDz\JoinDz\bin\Debug\EntityFramework.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\JoinDz\JoinDz\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\JoinDz\JoinDz\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\JoinDz\JoinDz\obj\Debug\JoinDz.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\JoinDz\JoinDz\obj\Debug\JoinDz.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\JoinDz\JoinDz\obj\Debug\JoinDz.pdb
